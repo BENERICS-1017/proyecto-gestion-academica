@@ -1,0 +1,15 @@
+# Archivos compilados
+*.exe
+*.out
+*.o
+*.obj
+
+# Archivos temporales
+*.tmp
+*.log
+
+# Carpetas de compilacion
+build/
+
+# Configuracion local del editor
+.vscode/
